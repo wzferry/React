@@ -1,9 +1,7 @@
-## 1.使用方法
+﻿## 1.使用方法
 
 ### 起步
 ```
-$ git clone https://github.com/GuoYongfeng/github-notetaker-app
-$ cd github-notetaker-app
 $ npm install
 $ npm run dev
 ```
